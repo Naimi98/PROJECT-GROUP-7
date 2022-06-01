@@ -78,6 +78,7 @@ WAD Mart System, the operation of choosing and buying items without the need to 
 
 <h3>Sequential Diagram</h3>
 
+![sequence](https://user-images.githubusercontent.com/95870144/171477929-a490c1af-ed18-4a6f-b141-80f83362cfa0.jpg)
 
 <h3>References</h3>
 
