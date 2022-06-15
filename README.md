@@ -1,91 +1,64 @@
-# PROJECT-GROUP-7
-# INFO 3305 Web Application Development Section 1 Sem 2 2021/2022 Group Project - Group 7
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<h3> Group Members</h3>
-<table>
-    <tr>
-    <th>Name</th>
-    <th>Matric No</th>
-    </tr>
-    <tr>
-        <td>NUR RAIMI BINTI RAHIM</td>
-        <td>2014632</td>
-    </tr>
-       <tr>
-        <td>NURMUNIRAH SYAHIDAH BINTI ISMAIL</td>
-        <td>2016496</td>
-    </tr>
-       <tr>
-        <td>MUHAMMAD MUNDZIR BIN MOHD RODZI</td>
-        <td>2014871</td>
-    </tr>
-       <tr>
-        <td>MUHAMMAD AIMAN BIN HISYAM</td>
-        <td>1917791</td>
-    </tr>
-       <tr>
-        <td>MUHAMMAD NAZRIN BIN MOHD ROFI</td>
-        <td>1813425</td>
-    </tr>
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-   
-</table>
+## About Laravel
 
-<h3>Title</h3>
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-WAD Mart System
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-<h3> Introduction </h3>
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-An advanced mart for people to shop and collect at the WAD shop. In this digital age, a web-based shop system would be ideal especially during the pandemic, users can access the system using their smartphone or any devices to shop online. <br></br>
-Firstly, the system introduced by us is to make the owner of the WAD mart shop managing the mart easily by adding, updating, delete and display the items in the shop for users to buy. The purpose of the mart system is to save users time from searching the item that available in the mart and to stop the a queue in the shop. The system also will divide the type of item to five category and that is dry food, fresh produce, dairy & chilled, snacks, and seafood & meat. 
+## Learning Laravel
 
-<h3> Objective</h3>
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-<ol>
-  <li>To reduce crowd in the mart especially during this pandemic.</li>
-  <li>To make users buy groceries conveniently and save time.</li>
-  <li>Give information about the availability of stock for users.</li>
-</ol>
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-<h3>Feature and functionality</h3>
+## Laravel Sponsors
 
-WAD Mart System, the operation of choosing and buying items without the need to come to the store and queuing up at the counter, only come to the store to collect the items. It is created to inform the user that the items are available in the store. This system also will store all the items and users’ information that consist of items id, items name, and available stocks in the system database. Furthermore, it also provides a cart section where the user can view all the items, they have added to buy and the total prices. When they reached the store, they only need to pick up the items.
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-<table>
-    <tr>
-        <th>Admin Side</th>
-        <th>User Side</th>
-    </tr>
-    <tr>
-        <td>Manage Register User</td>
-        <td>User Login Page</td>
-    </tr>
-    <tr>
-        <td>New User Registration</td>
-        <td>View Available Items</td>
-    </tr>
-    <tr>
-        <td>Manage Available Items</td>
-        <td>View Cart</td>
-    </tr>
-</table>
+### Premium Partners
 
-<h3>Entity Relationship Diagram (ERD)</h3>
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
 
-![erd](https://user-images.githubusercontent.com/95870144/171477522-b66f4f26-6a90-43e3-a740-cde0f706c15e.jpg)
+## Contributing
 
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-<h3>Sequential Diagram</h3>
+## Code of Conduct
 
-![sequence](https://user-images.githubusercontent.com/95870144/171477929-a490c1af-ed18-4a6f-b141-80f83362cfa0.jpg)
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-<h3>References</h3>
+## Security Vulnerabilities
 
-1. Entity Relationship Diagram.
-https://stackoverflow.com/questions/49519085/entity-relation-diagrams
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
+## License
 
-<h3>Presentation Video</h3>
-
-https://youtu.be/rcL4WdVPrTo
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
