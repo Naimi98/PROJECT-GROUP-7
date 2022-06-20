@@ -63,6 +63,7 @@ WAD Mart System, the operation of choosing and buying items without the need to 
 </table>
 
 <h3>Entity Relationship Diagram (ERD)</h3>
+![EDR](https://user-images.githubusercontent.com/95870144/174635065-8a9c16fd-312c-463d-999b-2cd90d050076.png)
 
 
 <h3>Sequential Diagram</h3>
