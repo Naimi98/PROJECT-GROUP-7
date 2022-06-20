@@ -55,10 +55,10 @@ WAD Mart Management System, the operation of managing items that are available i
 </table>
 
 <h3>Entity Relationship Diagram (ERD)</h3>
-![erd](https://user-images.githubusercontent.com/95870144/174640688-5c8b49b0-c48d-40b2-a165-8016c4bf6c92.jpeg)
+![erd](/Images/IMG_1744.JPG)
 
 <h3>Sequential Diagram</h3>
-![sequential](https://user-images.githubusercontent.com/95870144/174640920-aa84cc43-fe2f-416c-8728-09817134a38d.jpeg)
+![sequential](/Images/IMG_1740.JPG)
 
 <h3>References</h3>
 
