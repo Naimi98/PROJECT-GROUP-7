@@ -18,14 +18,6 @@
         <td>MUHAMMAD MUNDZIR BIN MOHD RODZI</td>
         <td>2014871</td>
     </tr>
-       <tr>
-        <td>MUHAMMAD AIMAN BIN HISYAM</td>
-        <td>1917791</td>
-    </tr>
-       <tr>
-        <td>MUHAMMAD NAZRIN BIN MOHD ROFI</td>
-        <td>1813425</td>
-    </tr>
 
    
 </table>
