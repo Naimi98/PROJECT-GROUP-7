@@ -58,7 +58,7 @@ WAD Mart Management System, the operation of managing items that are available i
 ![erd](https://user-images.githubusercontent.com/95870144/174640688-5c8b49b0-c48d-40b2-a165-8016c4bf6c92.jpeg)
 
 <h3>Sequential Diagram</h3>
-![sequential](https://user-images.githubusercontent.com/95870144/174639543-e1c09662-5bc9-44d3-a5ab-b2b4eeac5341.jpeg)
+![sequential](https://user-images.githubusercontent.com/95870144/174640920-aa84cc43-fe2f-416c-8728-09817134a38d.jpeg)
 
 <h3>References</h3>
 
