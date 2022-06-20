@@ -47,10 +47,7 @@ WAD Mart Management System, the operation of managing items that are available i
         <th>Admin Side</th>
     </tr>
     <tr>
-        <td>Manage Register User</td>
-    </tr>
-    <tr>
-        <td>New User Registration</td>
+        <td>Admin Login</td>
     </tr>
     <tr>
         <td>Manage Available Items</td>
@@ -61,7 +58,7 @@ WAD Mart Management System, the operation of managing items that are available i
 
 
 <h3>Sequential Diagram</h3>
-
+![sequential](https://user-images.githubusercontent.com/95870144/174639543-e1c09662-5bc9-44d3-a5ab-b2b4eeac5341.jpeg)
 
 <h3>References</h3>
 
